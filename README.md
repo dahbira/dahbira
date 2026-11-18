@@ -1,38 +1,55 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi,%20I'm%20Dahbira%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Toheeb%20Adigun%20Gbolahan&fontSize=36&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Freelance+Developer+💻;Building+clean%2C+useful+software;Always+learning%2C+always+shipping+🚀)](https://github.com/dahbira)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=640&lines=Aspiring+SOC+Analyst+🛡️;SIEM+%C2%B7+Threat+Detection+%C2%B7+Incident+Triage;Blue+Team+%7C+Blue+Team+%7C+Blue+Team+🔵;Always+learning%2C+always+hunting+🚀)](https://github.com/dahbira)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 🛡️ About Me
 
-- 💼 **Freelance developer** — I help clients turn ideas into working products
-- 🔭 Currently working on **client projects & open source**
-- 🌱 Currently learning **new frameworks & cloud tooling**
-- 🤝 Open to **freelance gigs and collaboration**
-- 📫 Reach me: **your.email@example.com** *(update this!)*
-- ⚡ Fun fact: **I ship fast and iterate faster**
+- 🔐 **Cybersecurity Trainee & Intern @ MAPELEAD Limited** — 120-hour intensive, lab-based program (security operations, threat detection, network defense, digital forensics)
+- 🖥️ Building a **home SOC lab** with Wazuh / ELK Stack and simulated attacks
+- 🌱 Sharpening skills daily on **TryHackMe & HackTheBox**
+- 🎓 Cybersecurity certification **in progress**
+- 🤝 Open to **entry-level SOC Analyst** and **IT Support** roles — remote, worldwide
+- 📫 Reach me: **teegoldkbs97@gmail.com** · Lagos, Nigeria
 
 ---
 
-## 🛠️ Tech Stack
+## 🧰 SOC & Security Toolkit
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![Wazuh](https://img.shields.io/badge/Wazuh-005571?style=for-the-badge&logo=wazuh&logoColor=white)
+![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elasticstack&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logo=nmap&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 </div>
+
+**Also working with:** Nessus · OpenVAS · TCP/IP & subnetting (VLSM) · MITRE ATT&CK · log analysis · vulnerability reporting
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Tools |
+|---------|-------------|-------|
+| 🛡️ Home SOC Lab | Virtual SOC environment monitoring endpoints; simulated attacks with full detection timeline (attack → alert → triage) | Wazuh, ELK, Sysmon |
+| 🦈 Wireshark Investigation | PCAP analysis to identify IOCs — suspicious IPs, DNS anomalies — mapped to MITRE ATT&CK | Wireshark |
+| 🔍 Vulnerability Assessment | Client-style report on a controlled lab network with CVSS severity ratings and remediation steps | Nmap, Nessus, OpenVAS |
+| 🚩 SOC Practice Write-ups | TryHackMe / HackTheBox walkthroughs: SIEM investigations, phishing analysis, blue-team detection | TryHackMe, HTB |
+
+> 📌 Write-ups are published in the pinned repositories below as labs are completed.
 
 ---
 
@@ -41,35 +58,9 @@
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=dahbira&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dahbira&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top languages"/>
-
-<img src="https://streak-stats.demolab.com?user=dahbira&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=dahbira&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies"/>
+<img src="https://streak-stats.demolab.com?user=dahbira&theme=tokyonight&hide_border=true" height="165" alt="GitHub streak"/>
 
 </div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dahbira&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity graph"/>
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-> Pin your best repos on your profile, then showcase them here — replace the placeholders below once you have projects to highlight.
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| 🔜 [Project One](https://github.com/dahbira) | A short, punchy description of what it does | React, Node.js |
-| 🔜 [Project Two](https://github.com/dahbira) | Another highlight of your work | Python |
-| 🔜 [Project Three](https://github.com/dahbira) | Something you're proud of | TypeScript |
 
 ---
 
@@ -77,10 +68,9 @@
 
 <div align="center">
 
+[![Email](https://img.shields.io/badge/Email-teegoldkbs97@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:teegoldkbs97@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Toheeb_Adigun-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/toheeb-adigun-a57864380)
 [![GitHub](https://img.shields.io/badge/GitHub-dahbira-181717?style=for-the-badge&logo=github)](https://github.com/dahbira)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-handle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-site.com)
 
 </div>
 
