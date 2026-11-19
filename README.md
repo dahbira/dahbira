@@ -13,7 +13,7 @@
 - 🔐 **Cybersecurity Trainee & Intern @ MAPELEAD Limited** — 120-hour intensive, lab-based program (security operations, threat detection, network defense, digital forensics)
 - 🖥️ Building a **home SOC lab** with Wazuh / ELK Stack and simulated attacks
 - 🌱 Sharpening skills daily on **TryHackMe & HackTheBox**
-- 🎓 Cybersecurity certification **in progress**
+- 🎓 Preparing for **CompTIA Security+ (SY0-701)**
 - 🤝 Open to **entry-level SOC Analyst** and **IT Support** roles — remote, worldwide
 - 📫 Reach me: **teegoldkbs97@gmail.com** · Lagos, Nigeria
 
