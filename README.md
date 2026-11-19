@@ -44,12 +44,13 @@
 
 | Project | Description | Tools |
 |---------|-------------|-------|
+| 🖥️ [Virtualized Lab Portfolio](https://github.com/dahbira/virtualized-lab-portfolio) | Secure two-VM lab in VirtualBox — Windows 11 + Ubuntu 22.04 on an isolated 192.168.1.0/24 segment, hardened with host firewalls and key-only SSH, verified end to end | VirtualBox, Netplan, UFW, PowerShell |
 | 🛡️ Home SOC Lab | Virtual SOC environment monitoring endpoints; simulated attacks with full detection timeline (attack → alert → triage) | Wazuh, ELK, Sysmon |
 | 🦈 Wireshark Investigation | PCAP analysis to identify IOCs — suspicious IPs, DNS anomalies — mapped to MITRE ATT&CK | Wireshark |
 | 🔍 Vulnerability Assessment | Client-style report on a controlled lab network with CVSS severity ratings and remediation steps | Nmap, Nessus, OpenVAS |
 | 🚩 SOC Practice Write-ups | TryHackMe / HackTheBox walkthroughs: SIEM investigations, phishing analysis, blue-team detection | TryHackMe, HTB |
 
-> 📌 Write-ups are published in the pinned repositories below as labs are completed.
+> 📌 Write-ups are published in the pinned repositories as labs are completed.
 
 ---
 
